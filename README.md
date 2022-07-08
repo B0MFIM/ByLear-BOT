@@ -1,2 +1,3 @@
-# ByLear-BOT
- meu primeiro bot do discord
+# ByLearn-BOT
+
+É meu primeiro bot discord que estou desenvolvendo a partir dos videos da ByLearn.
